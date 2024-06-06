@@ -1,0 +1,62 @@
+{
+  "id": "d48867b5-970e-4859-b10a-fd8d9718b7df",
+  "brand": "Acer",
+  "name": "Predator",
+  "cpu": {
+    "brand": "Intel",
+    "name": "i5-10400f",
+    "number_cores": 7,
+    "number_threads": 7,
+    "min_ghz": 4.092863317968479,
+    "max_ghz": 5.141408859974291
+  },
+  "ram": {
+    "value": "16",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "RX 560",
+      "min_ghz": 1.7220894478172055,
+      "max_ghz": 2.2762339163019703,
+      "memory": {
+        "value": "4",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "147",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "3",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 20.793112,
+    "resolution": {
+      "width": 3362,
+      "height": 5976
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "QWERTY",
+    "backlit": true
+  },
+  "weight_kg": 3.800806760426209,
+  "price_usd": 4368.8938885523885,
+  "release_year": 2023,
+  "updated_at": "2024-04-02T17:06:34.748910300Z"
+}
